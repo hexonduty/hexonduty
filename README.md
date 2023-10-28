@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm just working at home,<br>I'm a Web Developer,<br>I love searching,<br>I love listening a song
+I am preparing for the university exam and I am interested in Software.
+
+I like listening to music and watching movies
 
 
 ## 🌐 Socials:
